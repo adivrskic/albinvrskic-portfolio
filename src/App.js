@@ -6,10 +6,19 @@ function App() {
       </header>
       <hr />
       <main className="app-main">
-        <img src="/images/irm.jpeg" />
-        <img src="/images/portoptmm.jpeg" />
-        <img src="/images/srhmtableau.jpeg" />
-        <img src="/images/capsim.png" />
+        <img
+          src="/images/irm.jpeg"
+          alt="investment risk management certificate"
+        />
+        <img
+          src="/images/portoptmm.jpeg"
+          alt="portfolio optimization using markowitz model certificate"
+        />
+        <img
+          src="/images/srhmtableau.jpeg"
+          alt="building stock returns heatmap with tableau certificate"
+        />
+        <img src="/images/capsim.png" alt="capsim" />
       </main>
     </div>
   );
